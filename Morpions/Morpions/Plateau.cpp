@@ -89,7 +89,7 @@ int Plateau::position_colonne()
 	return x ;
 
 }
-
+/*
 bool Plateau::placement_case(int y, int x, char joueur_actuel)
 {
 		
@@ -103,7 +103,7 @@ bool Plateau::placement_case(int y, int x, char joueur_actuel)
 		jeu[y][x] = joueur_actuel;
 	}
 }
-
+*/
 bool Plateau::victoire(char symbole)
 {
 	for (int i = 0; i < 3; i++)
