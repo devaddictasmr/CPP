@@ -1,0 +1,4 @@
+﻿  Plateau.cpp
+c:\users\sparco88\desktop\projets\c++\morpions\morpions\plateau.cpp(104): warning C4715: 'Plateau::placement_case' : les chemins de contrôle ne retournent pas tous une valeur
+  Morpions.vcxproj -> C:\Users\Sparco88\Desktop\Projets\C++\Morpions\Debug\Morpions.exe
+  Morpions.vcxproj -> C:\Users\Sparco88\Desktop\Projets\C++\Morpions\Debug\Morpions.pdb (Partial PDB)
